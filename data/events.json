@@ -4,7 +4,75 @@
     "name": "Drome 4/25/26",
     "date": "2026-04-25",
     "track": "Sportsdrome",
-    "sessions": []
+    "sessions": [
+      {
+        "id": 1777149877149,
+        "name": "Practice 1",
+        "carProfileId": null,
+        "ambient": "76",
+        "inflationTemp": "76",
+        "setup": {
+          "shocks": {
+            "LF": 9,
+            "RF": 2,
+            "LR": 2,
+            "RR": 2
+          },
+          "springs": {
+            "LF": 440,
+            "RF": 475,
+            "LR": 160,
+            "RR": 160
+          },
+          "camber": {
+            "LF": 2.75,
+            "RF": -2.25
+          },
+          "caster": {
+            "LF": 9,
+            "RF": 3
+          },
+          "toe": -0.25,
+          "coldPsi": {
+            "LF": 20,
+            "RF": 42,
+            "LR": 16,
+            "RR": 35
+          }
+        },
+        "hotPsi": {
+          "LF": "21",
+          "RF": "44",
+          "LR": "17",
+          "RR": "37"
+        },
+        "tireTemps": {
+          "LF": {
+            "inside": "111",
+            "middle": "108",
+            "outside": "102"
+          },
+          "RF": {
+            "inside": "124",
+            "middle": "134",
+            "outside": "154"
+          },
+          "LR": {
+            "inside": "111",
+            "middle": "107",
+            "outside": "104"
+          },
+          "RR": {
+            "inside": "122",
+            "middle": "138",
+            "outside": "144"
+          }
+        },
+        "condition": "",
+        "phase": "",
+        "lapNotes": ""
+      }
+    ]
   },
   {
     "id": 1777149863834,
