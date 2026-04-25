@@ -79,6 +79,74 @@
     "name": "Drome",
     "date": "2026-04-25",
     "track": "",
-    "sessions": []
+    "sessions": [
+      {
+        "id": 1777150032687,
+        "name": "Practice 1",
+        "carProfileId": null,
+        "ambient": "",
+        "inflationTemp": "",
+        "setup": {
+          "shocks": {
+            "LF": 9,
+            "RF": 4,
+            "LR": 2,
+            "RR": 2
+          },
+          "springs": {
+            "LF": 440,
+            "RF": 475,
+            "LR": 160,
+            "RR": 160
+          },
+          "camber": {
+            "LF": 2.75,
+            "RF": -2.25
+          },
+          "caster": {
+            "LF": 5,
+            "RF": 5
+          },
+          "toe": -0.25,
+          "coldPsi": {
+            "LF": 20,
+            "RF": 42,
+            "LR": 16,
+            "RR": 32
+          }
+        },
+        "hotPsi": {
+          "LF": "19",
+          "RF": "38",
+          "LR": "35",
+          "RR": "21"
+        },
+        "tireTemps": {
+          "LF": {
+            "inside": "118",
+            "middle": "117",
+            "outside": "115"
+          },
+          "RF": {
+            "inside": "118",
+            "middle": "129",
+            "outside": "142"
+          },
+          "LR": {
+            "inside": "124",
+            "middle": "119",
+            "outside": "123"
+          },
+          "RR": {
+            "inside": "118",
+            "middle": "124",
+            "outside": "140"
+          }
+        },
+        "condition": "",
+        "phase": "",
+        "lapNotes": ""
+      }
+    ]
   }
 ]
