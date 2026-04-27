@@ -143,8 +143,8 @@
             "outside": "140"
           }
         },
-        "condition": "",
-        "phase": "",
+        "condition": "tight",
+        "phase": "middle",
         "lapNotes": ""
       }
     ]
