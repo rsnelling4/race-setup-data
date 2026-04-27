@@ -84,8 +84,8 @@
         "id": 1777150032687,
         "name": "Practice 1",
         "carProfileId": null,
-        "ambient": "",
-        "inflationTemp": "",
+        "ambient": "75",
+        "inflationTemp": "75",
         "setup": {
           "shocks": {
             "LF": 9,
@@ -143,8 +143,8 @@
             "outside": "140"
           }
         },
-        "condition": "tight",
-        "phase": "middle",
+        "condition": "",
+        "phase": "",
         "lapNotes": ""
       }
     ]
