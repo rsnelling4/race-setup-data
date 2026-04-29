@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1777470220044,
+    "title": "Pete's Car",
+    "date": "2026-04-29",
+    "notes": "",
+    "trackWidth": {
+      "front": "64",
+      "rear": "65.125"
+    },
+    "rearRollCenter": "14.5",
+    "lowerBallJoint": {
+      "LF": "7.75",
+      "RF": "6.75"
+    },
+    "upperBallJoint": {
+      "LF": "18.5",
+      "RF": "17.625"
+    },
+    "lowerArmPivot": {
+      "LF": "10",
+      "RF": "9.375"
+    },
+    "upperArmPivot": {
+      "LF": "13.5",
+      "RF": "13.5"
+    },
+    "wheelCenterHeight": "13",
+    "droopCamber": {
+      "LF": "1.75",
+      "RF": "-1.5"
+    },
+    "droopTravel": {
+      "LF": "0.5",
+      "RF": "0.875"
+    },
+    "bumpCamber": {
+      "LF": "-3",
+      "RF": "-4.5"
+    },
+    "bumpTravel": {
+      "LF": "2",
+      "RF": "2"
+    },
+    "steerCamber20": {
+      "LF": "1.5",
+      "RF": "-4"
+    },
+    "rideLowering": "",
+    "cgNotes": ""
+  }
+]
