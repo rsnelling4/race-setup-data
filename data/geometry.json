@@ -82,12 +82,16 @@
       "RF": "17.5"
     },
     "lowerArmPivot": {
-      "LF": "7.25",
-      "RF": "8.5"
+      "LF": "9.25",
+      "RF": "9.5"
     },
     "upperArmPivot": {
       "LF": "18",
       "RF": "18.5"
+    },
+    "springPickup": {
+      "LF": "0.75",
+      "RF": "0.75"
     },
     "wheelCenterHeight": "13",
     "droopCamber": {
@@ -110,12 +114,6 @@
       "LF": "2.25",
       "RF": "-2.5"
     },
-    "rideLowering": "",
-    "cgNotes": "",
-    "springPickup": {
-      "LF": "7.50",
-      "RF": "7.75"
-    },
     "cornerWeights": {
       "LF": "",
       "RF": "",
@@ -123,6 +121,8 @@
       "RR": ""
     },
     "cgHeight": "",
-    "arbDiameter": ""
+    "rideLowering": "",
+    "arbDiameter": "",
+    "cgNotes": ""
   }
 ]
