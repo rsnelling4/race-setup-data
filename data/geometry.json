@@ -90,8 +90,8 @@
       "RF": "18.5"
     },
     "springPickup": {
-      "LF": "0.75",
-      "RF": "0.75"
+      "LF": "10",
+      "RF": "10"
     },
     "wheelCenterHeight": "13",
     "droopCamber": {
@@ -114,15 +114,15 @@
       "LF": "2.25",
       "RF": "-2.5"
     },
+    "rideLowering": "",
+    "arbDiameter": "1.161",
+    "cgNotes": "",
     "cornerWeights": {
       "LF": "",
       "RF": "",
       "LR": "",
       "RR": ""
     },
-    "cgHeight": "",
-    "rideLowering": "",
-    "arbDiameter": "",
-    "cgNotes": ""
+    "cgHeight": ""
   }
 ]
