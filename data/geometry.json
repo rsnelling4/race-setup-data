@@ -100,15 +100,15 @@
     },
     "droopTravel": {
       "LF": "1.5",
-      "RF": ".25"
+      "RF": "-.25"
     },
     "bumpCamber": {
       "LF": "-.50",
       "RF": "-2.75"
     },
     "bumpTravel": {
-      "LF": "1.5",
-      "RF": "1.75"
+      "LF": "2",
+      "RF": "2"
     },
     "steerCamber20": {
       "LF": "2.25",
