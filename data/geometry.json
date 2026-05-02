@@ -81,24 +81,24 @@
     "rideHeight": {
       "LF": "29.75",
       "RF": "30",
-      "LR": "30",
-      "RR": "30"
+      "LR": "29.5",
+      "RR": "29.75"
     },
     "shocks": {
       "LF": "FCS | 1336343 | TT | 9",
-      "RF": "FCS | 1336343 | TT | 9",
+      "RF": "KYB | SR4140 | Mono | 6",
       "LR": "KYB | 555603 | Mono | 0",
       "RR": "KYB | 555603 | Mono | 0"
     },
     "shockFreeLength": {
       "LF": "15.59",
-      "RF": "15.59",
+      "RF": "15.51",
       "LR": "20.09",
       "RR": "20.09"
     },
     "shockInstalled": {
-      "LF": "",
-      "RF": "",
+      "LF": "19.75",
+      "RF": "18",
       "LR": "",
       "RR": ""
     },
@@ -160,9 +160,9 @@
     "cgNotes": "",
     "springRate": {
       "LF": "225",
-      "RF": "225",
-      "LR": "160",
-      "RR": "160"
+      "RF": "720",
+      "LR": "120",
+      "RR": "120"
     },
     "installRatio": {
       "front": "",
