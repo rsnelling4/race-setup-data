@@ -9,6 +9,7 @@
       "rear": "65.125"
     },
     "rearRollCenter": "14.5",
+    "rearSpringBase": "",
     "lowerBallJoint": {
       "LF": "7.75",
       "RF": "6.75"
@@ -24,6 +25,10 @@
     "upperArmPivot": {
       "LF": "13.5",
       "RF": "13.5"
+    },
+    "springPickup": {
+      "LF": "",
+      "RF": ""
     },
     "wheelCenterHeight": "13",
     "droopCamber": {
@@ -46,7 +51,15 @@
       "LF": "1.5",
       "RF": "-4"
     },
+    "cornerWeights": {
+      "LF": "",
+      "RF": "",
+      "LR": "",
+      "RR": ""
+    },
+    "cgHeight": "",
     "rideLowering": "",
+    "arbDiameter": "",
     "cgNotes": ""
   },
   {
