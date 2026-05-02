@@ -48,5 +48,68 @@
     },
     "rideLowering": "",
     "cgNotes": ""
+  },
+  {
+    "id": 1777685435658,
+    "title": "Josh 8",
+    "date": "2026-05-02",
+    "notes": "",
+    "trackWidth": {
+      "front": "65",
+      "rear": "66.128"
+    },
+    "rearRollCenter": "15.5",
+    "rearSpringBase": "35.5",
+    "lowerBallJoint": {
+      "LF": "8",
+      "RF": "7.5"
+    },
+    "upperBallJoint": {
+      "LF": "18",
+      "RF": "17.5"
+    },
+    "lowerArmPivot": {
+      "LF": "7.25",
+      "RF": "8.5"
+    },
+    "upperArmPivot": {
+      "LF": "18",
+      "RF": "18.5"
+    },
+    "springPickup": {
+      "LF": "7.50",
+      "RF": "7.75"
+    },
+    "wheelCenterHeight": "13",
+    "droopCamber": {
+      "LF": ".50",
+      "RF": "-2"
+    },
+    "droopTravel": {
+      "LF": "1.5",
+      "RF": ".25"
+    },
+    "bumpCamber": {
+      "LF": "-.50",
+      "RF": "-2.75"
+    },
+    "bumpTravel": {
+      "LF": "1.5",
+      "RF": "1.75"
+    },
+    "steerCamber20": {
+      "LF": "2.25",
+      "RF": "-2.5"
+    },
+    "cornerWeights": {
+      "LF": "",
+      "RF": "",
+      "LR": "",
+      "RR": ""
+    },
+    "cgHeight": "",
+    "rideLowering": "",
+    "arbDiameter": "",
+    "cgNotes": ""
   }
 ]
