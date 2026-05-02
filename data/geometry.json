@@ -82,12 +82,12 @@
       "RF": "17.5"
     },
     "lowerArmPivot": {
-      "LF": "6.25",
-      "RF": "6.5"
+      "LF": "10.25",
+      "RF": "9.5"
     },
     "upperArmPivot": {
-      "LF": "18",
-      "RF": "18.5"
+      "LF": "13",
+      "RF": "13.5"
     },
     "springPickup": {
       "LF": "10",
