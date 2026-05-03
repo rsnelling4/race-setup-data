@@ -69,8 +69,8 @@
     "trackType": "figure8",
     "notes": "",
     "camber": {
-      "LF": "-1",
-      "RF": "-1.75"
+      "LF": "-.75",
+      "RF": "-1.5"
     },
     "caster": {
       "LF": "6",
@@ -97,8 +97,8 @@
       "RR": "20.09"
     },
     "shockInstalled": {
-      "LF": "19.75",
-      "RF": "18",
+      "LF": "",
+      "RF": "",
       "LR": "",
       "RR": ""
     },
@@ -165,8 +165,8 @@
       "RR": "120"
     },
     "installRatio": {
-      "front": "",
-      "rear": ""
+      "front": "0.13",
+      "rear": "1"
     },
     "rearSpringTrack": "44",
     "springWireDia": {
