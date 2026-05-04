@@ -85,13 +85,13 @@
       "RR": "29.75"
     },
     "shocks": {
-      "LF": "FCS | 1336343 | TT | 9",
-      "RF": "KYB | SR4140 | Mono | 6",
+      "LF": "KYB | 551600 | Mono | 6",
+      "RF": "KYB | 551600 | Mono | 6",
       "LR": "KYB | 555603 | Mono | 0",
       "RR": "KYB | 555603 | Mono | 0"
     },
     "shockFreeLength": {
-      "LF": "15.59",
+      "LF": "15.51",
       "RF": "15.51",
       "LR": "20.09",
       "RR": "20.09"
@@ -159,8 +159,8 @@
     "arbDiameter": "1.161",
     "cgNotes": "",
     "springRate": {
-      "LF": "225",
-      "RF": "225",
+      "LF": "700",
+      "RF": "700",
       "LR": "120",
       "RR": "120"
     },
