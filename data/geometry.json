@@ -69,8 +69,8 @@
     "trackType": "oval",
     "notes": "",
     "camber": {
-      "LF": "-.75",
-      "RF": "-1.5"
+      "LF": "-1",
+      "RF": "-1.75"
     },
     "caster": {
       "LF": "6",
