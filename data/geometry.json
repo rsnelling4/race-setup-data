@@ -3,7 +3,48 @@
     "id": 1777470220044,
     "title": "Pete's Car",
     "date": "2026-04-29",
+    "trackType": "oval",
     "notes": "",
+    "camber": {
+      "LF": "",
+      "RF": ""
+    },
+    "caster": {
+      "LF": "",
+      "RF": ""
+    },
+    "toe": "",
+    "rearToe": "",
+    "rideHeight": {
+      "LF": "",
+      "RF": "",
+      "LR": "",
+      "RR": ""
+    },
+    "shocks": {
+      "LF": "",
+      "RF": "",
+      "LR": "",
+      "RR": ""
+    },
+    "shockFreeLength": {
+      "LF": "",
+      "RF": "",
+      "LR": "",
+      "RR": ""
+    },
+    "shockInstalled": {
+      "LF": "",
+      "RF": "",
+      "LR": "",
+      "RR": ""
+    },
+    "shockBumpGap": {
+      "LF": "",
+      "RF": "",
+      "LR": "",
+      "RR": ""
+    },
     "trackWidth": {
       "front": "64",
       "rear": "65.125"
@@ -12,19 +53,19 @@
     "rearSpringBase": "",
     "lowerBallJoint": {
       "LF": "7.75",
-      "RF": "6.75"
+      "RF": "7.5"
     },
     "upperBallJoint": {
       "LF": "18.5",
-      "RF": "17.625"
+      "RF": "18.625"
     },
     "lowerArmPivot": {
-      "LF": "10",
-      "RF": "9.375"
+      "LF": "6.5",
+      "RF": "6.5"
     },
     "upperArmPivot": {
-      "LF": "13.5",
-      "RF": "13.5"
+      "LF": "18",
+      "RF": "18"
     },
     "springPickup": {
       "LF": "",
@@ -51,16 +92,49 @@
       "LF": "1.5",
       "RF": "-4"
     },
+    "rideLowering": "",
+    "arbDiameter": "",
+    "cgNotes": "",
+    "springRate": {
+      "LF": "",
+      "RF": "",
+      "LR": "",
+      "RR": ""
+    },
+    "installRatio": {
+      "front": "",
+      "rear": ""
+    },
+    "rearSpringTrack": "",
+    "springWireDia": {
+      "front": "",
+      "rear": ""
+    },
+    "springCoilDia": {
+      "front": "",
+      "rear": ""
+    },
+    "springActiveCoils": {
+      "front": "",
+      "rear": ""
+    },
+    "bumpstopRate": {
+      "front": "",
+      "rear": ""
+    },
+    "dampingForce": {
+      "bumpFront": "",
+      "rebFront": "",
+      "bumpRear": "",
+      "rebRear": ""
+    },
     "cornerWeights": {
       "LF": "",
       "RF": "",
       "LR": "",
       "RR": ""
     },
-    "cgHeight": "",
-    "rideLowering": "",
-    "arbDiameter": "",
-    "cgNotes": ""
+    "cgHeight": ""
   },
   {
     "id": 1777685435658,
