@@ -96,10 +96,10 @@
     "arbDiameter": "1.161",
     "cgNotes": "",
     "springRate": {
-      "LF": "225",
-      "RF": "425",
-      "LR": "120",
-      "RR": "120"
+      "LF": "700",
+      "RF": "700",
+      "LR": "160",
+      "RR": "160"
     },
     "installRatio": {
       "front": "0.80",
